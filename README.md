@@ -72,7 +72,7 @@ Overall conversion: **1.28%**. The biggest raw drop is Visit → Product view (m
 ## 6. Unexpected findings
 >  **Visitors who went straight to checkout converted lower, not higher.** Among sessions that reached checkout, those who skipped the cart converted 43.8% vs 53.1% for step-by-step sessions (-9.3 pp, 95% CI -11.2 to -7.4, p < 0.001; n = 3,226 vs 17,172). I expected visitors who arrive with apparent purchase intent to convert better. Possible reasons (not tested): returns to abandoned checkouts, tracking gaps. "Intent" is inferred from funnel behaviour, not observed.
 
->  **One traffic source drives a large share of results.** The Referral source labelled `(direct)` is 7.6% of visits but 44% of all purchases (7.45% conversion, 92% US, 0.6% mobile). It makes desktop look stronger: the mobile-vs-desktop conversion gap is 3.9x with it and 2.2x without it. I could not tell what kind of traffic this is from the available data, so I report key results with and without it.
+>  **One traffic source drives a large share of results.** The Referral source labelled (direct) is 7.6% of visits but 44% of all purchases (7.45% conversion, 92% US, 0.6% mobile). It makes desktop look stronger: the mobile-vs-desktop conversion gap is 3.9x with it and 2.2x without it. I could not tell what kind of traffic this is from the available data, so I report key results with and without it.
 
 >  **The November "dip" came from Social (YouTube) traffic.** Social visits rose from about 25K to 57K in Nov but almost never bought. Excluding Social, November converts 1.61% (similar to October's 1.57%).
 
